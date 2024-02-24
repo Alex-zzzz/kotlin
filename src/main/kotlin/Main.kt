@@ -3,3 +3,4 @@ fun main() {
     val city = readln()
     println("User lives in $city")
 }
+
